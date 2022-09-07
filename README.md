@@ -11,8 +11,17 @@ The Museum of Fine Arts, often recognized as the Boston Museum of Fine Arts, is 
 The airport that is closest to the museum is Boston Logan international airport.
 
 #### Directions,
-Get on MA-1A S from Airport Rd - Arrival Level
+1.Get on MA-1A S from Airport Rd - Arrival Level
 
-Continue on MA-1A S. Take Storrow Dr to Charlesgate. Take the exit toward Fenway from
+2.Continue on MA-1A S. Take Storrow Dr to Charlesgate. Take the exit toward Fenway from
 
-Continue on Charlesgate. Take Fenway and Hemenway St to Huntington Ave
+3.Continue on Charlesgate. Take Fenway and Hemenway St to Huntington Ave
+
+#### Places around museum
+
+* Fenway Park.
+* Freedom Trail.
+* Museum of Fine Arts.
+* Boston Tea Party Ships & Museum.
+* North End.
+* Boston Harbor Islands State Park.
