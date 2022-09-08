@@ -3,15 +3,12 @@
  # Deepika Alapati
 
 #### Museum of Fine Arts
-
 The Museum of Fine Arts, often recognized as the Boston Museum of Fine Arts, is a Boston national artifact and one of the largest art museums in the world thanks to its **well-balanced collection**. The Boston Athenaeum library's art holdings served as the foundation of the museum's initial collection when it opened its doors in **1870**.<b>
 
 ### Airport Directions
-
 The airport that is closest to the museum is Boston Logan international airport.
 
 #### Directions
-
 1.Get on MA-1A S from Airport Rd - Arrival Level
 
 2.Continue on MA-1A S. Take Storrow Dr to Charlesgate. Take the exit toward Fenway from
@@ -25,7 +22,7 @@ The airport that is closest to the museum is Boston Logan international airport.
 * Boston Tea Party Ships & Museum.
 * North End.
 
- ### Tables
+### Tables
 The table introduces the cities recommend to visit,like these beautiful cities Paris,Seoul,New Orleans,Sydney.In the first row it has the name of the city,locations to visit in the city and amount of time .
 
 |Name of the city|Locations in the city             |Time to spend|
