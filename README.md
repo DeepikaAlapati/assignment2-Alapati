@@ -44,6 +44,39 @@ The table introduces the cities recommend to visit,like these beautiful cities P
 
 -------------------------------------------------------------------
 
+### Code Fencing
+Sorting Numbers
+
+>[article](https://css-tricks.com/introducing-sass-modules/)
+
+$@function quick-sort($list) {
+  $less:  ();
+  $equal: ();
+  $large: ();
+
+  @if length($list) > 1 {
+    $seed: nth($list, ceil(length($list) / 2));
+
+    @each $item in $list {
+      @if ($item == $seed) {
+        $equal: append($equal, $item);
+      } @else if ($item < $seed) {
+        $less: append($less, $item);
+      } @else if ($item > $SEED) {
+        $large: append($large, $item);
+      }
+    }
+
+    @return join(join(quick-sort($less, $order), $equal), quick-sort($large, $order));
+  }
+
+  @return $list;
+}
+
+
+
+> [sass snippet source](https://css-tricks.com/snippets/sass/sorting-function/)
+
 
 
 
