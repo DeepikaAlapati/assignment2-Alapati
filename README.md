@@ -39,7 +39,10 @@ The table introduces the cities recommend to visit,like these beautiful cities P
 ### Pithy Quotes
 
 > "Live for each second without hesitation."— *Elton John*
+
 > "Love Yourself" - *BTS*
+
+-------------------------------------------------------------------
 
 
 
