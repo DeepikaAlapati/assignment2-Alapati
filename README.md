@@ -25,11 +25,11 @@ The airport that is closest to the museum is Boston Logan international airport.
 * Boston Tea Party Ships & Museum.
 * North End.
 
-[AboutMe.md](C:\Users\s550002\Desktop\webapps-repos\assignment2-Alapati\AboutMe.md)
+![AboutMe.md](C:\Users\s550002\Desktop\webapps-repos\assignment2-Alapati\AboutMe.md)
 
 
  ### Tables
- 
+
 The table introduces the cities recommend to visit,like these beautiful cities Paris,Seoul,New Orleans,Sydney.In the first row it has the name of the city,locations to visit in the city and amount of time .
 
 |Name of the city|Locations in the city             |Time to spend|
