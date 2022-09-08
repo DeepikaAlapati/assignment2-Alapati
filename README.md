@@ -10,7 +10,8 @@ The Museum of Fine Arts, often recognized as the Boston Museum of Fine Arts, is 
 
 The airport that is closest to the museum is Boston Logan international airport.
 
-#### Directions,
+#### Directions
+
 1.Get on MA-1A S from Airport Rd - Arrival Level
 
 2.Continue on MA-1A S. Take Storrow Dr to Charlesgate. Take the exit toward Fenway from
@@ -18,7 +19,6 @@ The airport that is closest to the museum is Boston Logan international airport.
 3.Continue on Charlesgate. Take Fenway and Hemenway St to Huntington Ave
 
 #### Places around museum
-
 * Fenway Park.
 * Freedom Trail.
 * Museum of Fine Arts.
@@ -26,7 +26,6 @@ The airport that is closest to the museum is Boston Logan international airport.
 * North End.
 
  ### Tables
-
 The table introduces the cities recommend to visit,like these beautiful cities Paris,Seoul,New Orleans,Sydney.In the first row it has the name of the city,locations to visit in the city and amount of time .
 
 |Name of the city|Locations in the city             |Time to spend|
@@ -36,6 +35,8 @@ The table introduces the cities recommend to visit,like these beautiful cities P
 |New orleans     |French Quarter,Frenchmen Street   |8hours       |
 |Sydney          |Sydney Opera House,Bondi Beach    |9hours       |
 
+
+-------------------------------------------------------------------
 
 
 
